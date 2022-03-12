@@ -4,7 +4,7 @@ Save time with less typing :)
 
 ```shell
 # run in a dir not holding a dir named "gist"
-# run after you came to understand these behaviours
+# run after you come to understand these behaviours
 
 git clone https://github.com/alpineyahoo/gist.git
 cd gist
