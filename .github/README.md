@@ -7,4 +7,5 @@ Save time with less typing :)
 git clone https://github.com/alpineyahoo/gist.git
 cd gist
 sudo rm -r .git*
+mv * /usr/local/bin
 ```
