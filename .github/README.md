@@ -5,5 +5,6 @@ Save time with less typing :)
 ```shell
 # run in a dir not holding a dir named "gist"
 git clone https://github.com/alpineyahoo/gist.git
-rm ./gist/.github ./gist/.git
+cd gist
+rm -r .git*
 ```
