@@ -1,6 +1,6 @@
 # gist
 Save time with less typing :)
-## install
+## Installation
 
 ```shell
 # "gist" という名前のチャイルドディレクトリを持たないディレクトリで実行
