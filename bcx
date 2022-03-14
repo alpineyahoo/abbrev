@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+echo $1 | bc
+# bc command calculates formulas
