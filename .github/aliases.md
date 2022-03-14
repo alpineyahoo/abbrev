@@ -6,6 +6,7 @@ alias zzz='pmset sleepnow'
 
 # aliases for sh config
 alias catz='cat ~/.zshrc'
+alias apndz='echo $1 >> ~/.zshrc'
 alias edz='nano ~/.zshrc'
 alias srcz='source ~/.zshrc'
 
