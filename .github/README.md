@@ -1,9 +1,5 @@
 # abbrev
-Save time with less typing :)
-<br>
-This is just an aliases list.
-<br>
-(You can see [aliases.md](https://github.com/alpineyahoo/abbrev/blob/main/.github/aliases.md) file which contains several aliases)
+Save time with less typing :) This is just an aliases list. (You can see [aliases.md](https://github.com/alpineyahoo/abbrev/blob/main/.github/aliases.md) file which contains several aliases)
 ## Installation
 
 ```shell
