@@ -1,5 +1,7 @@
 # abbrev
 Save time with less typing :)
+<br>
+This is just an aliases list.
 ## Installation
 
 ```shell
