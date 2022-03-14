@@ -12,7 +12,7 @@ Save time with less typing :) This is just an aliases list. (You can see [aliase
 $ git clone https://github.com/alpineyahoo/abbrev.git
 $ cd abbrev
 $ sudo rm -r .git*
-$ mv -i * /usr/local/bin
+$ mv -i * /usr/local/bin # make sure /usr/local/bin is in $PATH
 $ cd ..
 $ rm -r abbrev
 ```
