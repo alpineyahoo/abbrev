@@ -11,10 +11,13 @@ alias edz='nano ~/.zshrc'
 alias srcz='source ~/.zshrc'
 
 # aliases for YouTube downloads --------
+
 alias ytmp3='youtube-dl $(pbpaste) -x -f bestaudio --audio-format mp3'
 # install ffmpeg before use (requires ffmpeg/avconv and ffprobe/avprobe)
+
 alias ytmp4='youtube-dl $(pbpaste) -f best'
 # copy the desired YouTube video URL and execute this command in directory like Downloads folder for example
+
 # --------------------------------------
 ```
 
