@@ -1,7 +1,7 @@
 Here are some useful aliases:
 
 ```shell
-alias beep='osascript -e '\''beep'\'
+alias beep="osascript -e 'beep'"
 alias zzz='pmset sleepnow'
 
 # aliases for sh config
