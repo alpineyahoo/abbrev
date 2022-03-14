@@ -1,5 +1,0 @@
-#!/usr/bin/env zsh
-
-youtube-dl $(pbpaste) -f best
-
-# copy the desired YouTube video URL and execute this command in directory like Downloads folder for example
