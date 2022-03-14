@@ -14,6 +14,8 @@ Those above are executables as aliases. You can see [aliases.md](https://github.
 $ git clone https://github.com/alpineyahoo/abbrev.git
 $ cd abbrev
 $ sudo rm -r .git*
+$ cat aliases.txt >> ~/.zshrc
+$ rm aliases.txt
 $ chmod +x *
 $ mv -i * /usr/local/bin # make sure /usr/local/bin is in $PATH
 $ cd ..
