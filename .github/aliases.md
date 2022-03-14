@@ -8,6 +8,10 @@ alias zzz='pmset sleepnow'
 alias catz='cat ~/.zshrc'
 alias edz='nano ~/.zshrc'
 alias srcz='source ~/.zshrc'
+
+# aliases for YouTube downloads
+alias ytmp3='youtube-dl -x $(pbpaste) -f bestaudio --audio-format mp3'
+alias ytmp4='youtube-dl $(pbpaste) -f best'
 ```
 
 Just register them in your `~/.zshrc` (or `~/.bashrc`)
