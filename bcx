@@ -1,4 +1,4 @@
 #!/usr/bin/env zsh
 
-echo ${1} | bc
+echo "$@" | bc
 # bc command calculates formulas
