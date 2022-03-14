@@ -1,4 +1,4 @@
-Here are some useful aliases
+Here are some useful aliases:
 
 ```shell
 alias beep='osascript -e '\''beep'\'
