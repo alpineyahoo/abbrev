@@ -1,0 +1,2 @@
+alias beep="osascript -e 'beep'"
+alias zzz='pmset sleepnow'
