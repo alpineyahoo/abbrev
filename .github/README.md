@@ -2,6 +2,8 @@
 Save time with less typing :)
 <br>
 This is just an aliases list.
+<br>
+(You can see [aliases.md](https://github.com/alpineyahoo/abbrev/blob/main/.github/aliases.md) file)
 ## Installation
 
 ```shell
