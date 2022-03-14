@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+youtube-dl -x $(pbpaste) --audio-format mp3
+# install ffmpeg before use (requires ffmpeg/avconv and ffprobe/avprobe)
