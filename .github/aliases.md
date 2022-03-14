@@ -7,3 +7,5 @@ alias beep='osascript -e '\''beep'\'
 alias catz='cat ~/.zshrc'
 alias srcz='source ~/.zshrc'
 ```
+
+Just register them in your `~/.zshrc` (or `~/.bashrc`)
