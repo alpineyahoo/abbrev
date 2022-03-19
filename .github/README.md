@@ -21,5 +21,5 @@ $ mv -i * /usr/local/bin # make sure /usr/local/bin is in $PATH
 $ cd ..
 $ rmdir abbrev
 ```
-## 追記
+## 追記('22 03/19)
 `aliases.txt` の `ytmp3`, `ytmp4` を修正しました。(エイリアスにしたとき `$(pbpaste)` はクウォートしないと認識されないみたいです…)
